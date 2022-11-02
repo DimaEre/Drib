@@ -65,12 +65,6 @@ class Drib
             else a = false;
         }
     }
-    public void додавання()
-    {
-        Drib rezult = new Drib();
-
-    }
-
     public void see()
     {
         if (ціле != 0)
